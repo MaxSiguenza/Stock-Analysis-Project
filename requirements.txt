@@ -1,0 +1,5 @@
+#REQUIREMENTS TO RUN
+
+pandas
+matplotlib
+yfinance
